@@ -25,8 +25,9 @@
 
 ## 💻 Sobre o projeto
 
-O projeto foi desenvolvido no Desafio da trilha de React-Native do **Ignite** da [Rocketseat](https://lp.rocketseat.com.br/ignite), o objetivo era  
-implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco mais sobre manipulação do estado no React. 
+O projeto foi desenvolvido no Desafio da trilha de React-Native do **Ignite** da [Rocketseat](https://lp.rocketseat.com.br/ignite), o objetivo era criar mais coisas e
+uma continuação da aplicação de lembrete de tarefas desenvolvida no desafio 1, onde foi treinado um pouco mais sobre propriedades e componentização no React.
+As funcionalidades do aplicativo são:
 
 <!--Funcionalidades do projeto-->
 
@@ -36,6 +37,9 @@ implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco ma
 - [x] Adicionar uma nova tarefa;
 - [x] Remover uma tarefa;
 - [x] Marcar e desmarcar uma tarefa como concluída;
+- [x] Edição de uma tarefa;
+- [x] Exibir alerta pedindo confirmação ao remover uma tarefa;
+- [x] Exibir alerta ao tentar adicionar tarefa com o mesmo nome;
 
 <!--Conceitos do projeto-->
 
@@ -51,7 +55,7 @@ implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco ma
 
 ## 🎨 Layout
 
-![mobile](https://github.com/rafa543/todo-desafio-1-rocket-ignite/blob/main/src/assets/Layout.png)
+![mobile](https://github.com/rafa543/desafio2-Todo-list-ignite/blob/main/src/assets/layout.png)
 
 <!--Running session-->
 
@@ -60,7 +64,7 @@ implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco ma
 ```bash
 
 # Clone o repositório
-git clone https://github.com/rafa543/todo-desafio-1-rocket-ignite.git
+git clone https://github.com/rafa543/desafio2-Todo-list-ignite.git
 
 # Instale as dependências
 npm install ou yarn
